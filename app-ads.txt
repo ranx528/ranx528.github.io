@@ -1486,3 +1486,5 @@ pubmatic.com, 164125, RESELLER, 5d62403b186f2ace
 inmobi.com, 55049d2e109d4ac1820ca1432dda4e13, RESELLER, 83e75a7ae333ca9d
 openx.com, 540421297, RESELLER, 6a698e2ec38604c6
 rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
+
+bigo.sg, 1115274, DIRECT
