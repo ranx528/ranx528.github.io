@@ -1488,3 +1488,7 @@ openx.com, 540421297, RESELLER, 6a698e2ec38604c6
 rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
 
 bigo.sg, 1115274, DIRECT
+
+facebook.com, 1619534528862913, DIRECT, c3e20eee3f780d68
+
+contextweb.com,563521, RESELLER, 89ff185a4c4e857c
