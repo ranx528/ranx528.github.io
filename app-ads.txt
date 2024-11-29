@@ -1522,3 +1522,11 @@ video.unrulymedia.com,5336134699710583737,RESELLER
 myfeature.tv, XmYnVLJ23ytAhfaON5n6, RESELLER
 video.unrulymedia.com, 1876793108340587286, RESELLER
 lijit.com, 491580, RESELLER, fafdf38b16bf6b2b
+
+openx.com, 561470659, RESELLER, 6a698e2ec38604c6
+dobyai.com, 37372, RESELLER
+xapads.com, 211847, RESELLER
+google.com, pub-3990748024667386, DIRECT, f08c47fec0942fa0
+conversantmedia.com, 100718, RESELLER, 03113cd04947736d
+bidedge.io, 12430300, RESELLER
+rixengine.com, 130103, RESELLER
