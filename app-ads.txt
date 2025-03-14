@@ -1668,3 +1668,6 @@ loopme.com, 13946, RESELLER, 6c8d5f95897a5a3b
 nextmillennium.io, 14807, RESELLER, 65bd090fa4a1e3d6
 
 g-global.net, 21153, DIRECT
+
+appsheep.com, b4070e679b974be9bf2150cde7d28b73, RESELLER
+improvedigital.com, 2534, RESELLER
